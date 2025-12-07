@@ -18,7 +18,7 @@
     color: $color-elephant;
 
     @media (min-width: $vp-768) {
-      margin-bottom: 11px;
+      margin-bottom: 10px;
 
       font-size: 18px;
       line-height: 18px;
@@ -69,7 +69,7 @@
     }
 
     @media (min-width: $vp-768) {
-      top: 176px;
+      top: 175px;
       z-index: -1;
 
       width: 542px;
@@ -99,7 +99,7 @@
   }
 
   @media (min-width: $vp-768) {
-    padding: 42px 48px 40px 450px;
+    padding: 40px 48px 40px 450px;
   }
 
   @media (min-width: $vp-1440) {

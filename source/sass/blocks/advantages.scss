@@ -39,16 +39,15 @@
 }
 
 .advantages__container {
-  padding: 3px 15px 20px;
-
+  padding: 21px 15px 20px;
   text-align: center;
 
   @media (min-width: $vp-768) {
-    padding: 42px 45px 40px;
+    padding: 40px 45px 40px;
   }
 
   @media (min-width: $vp-1440) {
-    padding: 79px 0 185px;
+    padding: 90px 0 185px;
   }
 }
 

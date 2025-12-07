@@ -24,7 +24,7 @@
 }
 
 .training__container {
-  padding: 11px 15px 20px;
+  padding: 20px 15px 20px;
 
   p {
     margin: 0 0 28px;
@@ -48,11 +48,11 @@
   }
 
   @media (min-width: $vp-768) {
-    padding: 29px 45px 40px;
+    padding: 40px 45px;
   }
 
   @media (min-width: $vp-1440) {
-    padding: 7px 120px 40px;
+    padding: 17px 120px 40px;
   }
 }
 
